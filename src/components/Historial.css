@@ -1,0 +1,27 @@
+.historial-root {
+  margin: auto;
+  max-width: 900px;
+  background: white;
+  padding: 1rem;
+  border-radius: 0.7rem;
+  box-shadow: 0 4px 18px rgba(0,0,0,0.15);
+}
+
+.historial-root .titulo {
+  text-align: center;
+  font-weight: 500;
+  margin-bottom: 1.5rem;
+}
+
+.historial-root .filtro {
+  width: 70%;
+  min-width: 300px;
+}
+
+.historial-root table th {
+  cursor: pointer;
+}
+
+.text-rojo {
+  color: red !important;
+}
